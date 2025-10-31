@@ -1,1 +1,11 @@
-src/.vs/
+# Visual Studio
+.vs/
+**/bin/
+**/obj/
+
+# Build outputs
+**/Debug/
+**/Release/
+
+# Local build artifacts
+**/.vs/
